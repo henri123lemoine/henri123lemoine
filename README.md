@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @henri123lemoine
 - 👀 I’m interested in AI (especially DNNs), robotics, statistics, mathematics, CS, evolutionary biology, psychology (rationality, heuristics and biases, neuroscience), and literature.
-- 🌱 I’m currently learning DDPG and TD3, Data Science (Pandas and mathplotlib), 3D simulations with Python (blender, open3d, vpython), and Arduino/Raspberry-Pi.
+- 🌱 I’m currently learning about Auto-encoders, DDPG, TD3, Data Science (Pandas and mathplotlib), 3D simulations with Python (blender, open3d, vpython), and Arduino/Raspberry-Pi.
 - 📫 How to reach me: henri123lemoine@gmail.com
 
 <!---
